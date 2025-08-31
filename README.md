@@ -1,43 +1,47 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/RehmanAli-Dev/RehmanAli-Dev/main/header_banner.gif" alt="Header Banner">
+</div>
+<br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3399FF&center=true&width=500&lines=Hi+there%2C+I'm+Rehman+Ali+%F0%9F%91%8B;AI+%26+Full-Stack+Developer;Cross-Platform+Engineer;Turning+Futuristic+Ideas+into+Reality" alt="Typing SVG" /></a>
-
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&width=500&lines=Rehman+Ali+%F0%9F%91%8B;AI+%26+Full-Stack+Architect;Cross-Platform+Innovator" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
-  A highly experienced and multi-talented developer with deep expertise in Artificial Intelligence, full-stack development, and cross-platform software engineering. I specialize in building intelligent, high-performance applications using modern tools and technologies.
+  I transform complex problems into elegant software solutions. Specializing in AI-driven applications and high-performance systems across Web, Mobile, and Desktop. My focus is on building intelligent, scalable, and reliable software products. 
 </p>
 
 ---
 
-### 🚀 Core Competencies & Skills
-
-<p align="center">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/> </a>
-    <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/> </a>
-</p>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RehmanBhaiKaUsername&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" alt="Rehman's GitHub Stats">
+    <td width="60%" valign="top">
+      <h2 align="center">🛠️ My Tech Stack 🛠️</h2>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,python,tensorflow,js,html,css,git,github,docker,aws,figma,ps,ae,pr&perline=6&theme=dark" />
+        </a>
+      </p>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehmanBhaiKaUsername&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages">
+    
+    <td width="40%" valign="top">
+      <h2 align="center">🏆 GitHub Achievements 🏆</h2>
+      <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=RehmanBhaiKaUsername&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+      </p>
+      <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RehmanBhaiKaUsername&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+      </p>
     </td>
   </tr>
 </table>
 
+---
+
+### 🐍 My Contribution Activity Snake 🐍
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehmanBhaiKaUsername&theme=github_dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://raw.githubusercontent.com/RehmanBhaiKaUsername/RehmanBhaiKaUsername/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </div>
 
 ---
