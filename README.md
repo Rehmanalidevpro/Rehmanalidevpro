@@ -1,58 +1,23 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RehmanAli-Dev/RehmanAli-Dev/main/header_banner.gif" alt="Header Banner">
-</div>
-<br>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="60%">
+      <h1>Hello, I'm Rehman Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=false&width=450&lines=AI+%26+Full-Stack+Architect;Cross-Platform+Innovator;Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
+      <br>
+      <p>I transform complex problems into elegant software solutions. Specializing in AI-driven applications and high-performance systems across Web, Mobile, and Desktop. My focus is on building intelligent, scalable, and reliable software products.</p>
+      
+      <h4>Connect with me:</h4>
+      <p>
+        <a href="[YAHAN_APNA_LINKEDIN_LINK_DALEIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehman-ali-linkedin" height="30" width="40" /></a>
+        </p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&width=500&lines=Rehman+Ali+%F0%9F%91%8B;AI+%26+Full-Stack+Architect;Cross-Platform+Innovator" alt="Typing SVG" /></a>
-</div>
-
-<p align="center">
-  I transform complex problems into elegant software solutions. Specializing in AI-driven applications and high-performance systems across Web, Mobile, and Desktop. My focus is on building intelligent, scalable, and reliable software products. 
-</p>
-
----
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h2 align="center">🛠️ My Tech Stack 🛠️</h2>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,python,tensorflow,js,html,css,git,github,docker,aws,figma,ps,ae,pr&perline=6&theme=dark" />
-        </a>
-      </p>
+      <img src="https://profile-counter.glitch.me/RehmanBhaiKaUsername/count.svg" alt="Visitors">
     </td>
-    
-    <td width="40%" valign="top">
-      <h2 align="center">🏆 GitHub Achievements 🏆</h2>
-      <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=RehmanBhaiKaUsername&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-      </p>
-      <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RehmanBhaiKaUsername&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-      </p>
+
+    <td width="40%" align="center">
+      <img src="https://camo.githubusercontent.com/13c49c38662973c52a0a2212e3e9d89065a254201b1a7751a7b1c31c9d646738/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363531323934332f616e696d617465645f626f756e63655f322e676966" alt="Coding Animation" width="400px">
     </td>
   </tr>
 </table>
-
----
-
-### 🐍 My Contribution Activity Snake 🐍
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RehmanBhaiKaUsername/RehmanBhaiKaUsername/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </div>
-
----
-
-### 📫 Get In Touch
-
-<p align="center">
-  <a href="[YAHAN_APNA_LINKEDIN_LINK_DALEIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:[YAHAN_APNA_EMAIL_DALEIN]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
