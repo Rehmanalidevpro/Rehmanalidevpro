@@ -1,69 +1,48 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-  <h1><b>Hi there! I'm Rehman Ali 👋</b></h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3399FF&center=true&width=500&lines=Hi+there%2C+I'm+Rehman+Ali+%F0%9F%91%8B;AI+%26+Full-Stack+Developer;Cross-Platform+Engineer;Turning+Futuristic+Ideas+into+Reality" alt="Typing SVG" /></a>
+
 </div>
+
+<p align="center">
+  A highly experienced and multi-talented developer with deep expertise in Artificial Intelligence, full-stack development, and cross-platform software engineering. I specialize in building intelligent, high-performance applications using modern tools and technologies.
+</p>
+
+---
+
+### 🚀 Core Competencies & Skills
+
+<p align="center">
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/> </a>
+    <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=RehmanBhaiKaUsername&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" alt="Rehman's GitHub Stats">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehmanBhaiKaUsername&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <p>
-    I'm a highly experienced and multi-talented developer with deep expertise in <b>Artificial Intelligence</b>, <b>full-stack development</b>, and <b>cross-platform software engineering</b>. My mission is to turn futuristic ideas into powerful digital experiences using AI and modern development practices. 🚀
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehmanBhaiKaUsername&theme=github_dark&hide_border=true" alt="GitHub Streak">
 </div>
 
 ---
 
-## 🛠️ Skills & Technologies
-
-<p align="left">
-  <b>Frontend:</b><br>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</p>
-
-<p align="left">
-  <b>Backend:</b><br>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-</p>
-
-<p align="left">
-  <b>Mobile Development:</b><br>
-  <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutter-original.svg" alt="Flutter" height="50" /></a>  
-  <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlin-original-wordmark.svg" alt="Kotlin" height="50" /></a>  
-  <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-</p>
-
-<p align="left">
-  <b>AI & Machine Learning:</b><br>
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-original-wordmark.svg" alt="TensorFlow" height="50" /></a>  
-  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-original-wordmark.svg" alt="PyTorch" height="50" /></a>  
-</p>
-
-<p align="left">
-  <b>CMS & Tools:</b><br>
-  <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress-original.svg" alt="WordPress" height="50" /></a>  
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-original.svg" alt="Figma" height="50" /></a>  
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</p>
-
----
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RehmanBhaiKaUsername&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Rehman's GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehmanBhaiKaUsername&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="Top Languages">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehmanBhaiKaUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
-
----
-
-## 📫 Connect with Me
+### 📫 Get In Touch
 
 <p align="center">
   <a href="[YAHAN_APNA_LINKEDIN_LINK_DALEIN]">
