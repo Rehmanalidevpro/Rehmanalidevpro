@@ -1,22 +1,26 @@
 <!-- 
 =======================================================================
-SEO METADATA (INVISIBLE TO HUMANS, VISIBLE TO SEARCH ENGINES)
+SEO METADATA (INVISIBLE)
 Keywords: Rehman Ali, Senior Flutter Developer Pakistan, Full Stack Architect,
-Mobile App Expert, Dart, Node.js, AWS, Enterprise Solutions, UI/UX Designer.
+Mobile App Expert, Dart, Node.js, AWS, Enterprise Solutions.
 =======================================================================
 -->
 
-<!-- 1. HERO HEADER (Location Included - No Links) -->
+<!-- 1. HERO HEADER (FIXED: Clicking brings you back to Profile, not raw image) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:812758,100:0e1836&height=320&section=header&text=Rehman%20Ali&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Architecting%20Scalable%20Solutions%20from%20Pakistan&descSize=22&descAlign=50&descAlignY=62" width="100%" />
+  <a href="https://github.com/Rehmanalidevpro">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:812758,100:0e1836&height=320&section=header&text=Rehman%20Ali&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Architecting%20Scalable%20Solutions%20from%20Pakistan&descSize=22&descAlign=50&descAlignY=62" width="100%" />
+  </a>
 </div>
 
-<!-- 2. INTRO SECTION (Clean Grid - Non-Clickable Decor) -->
+<!-- 2. INTRO SECTION (Clean Grid) -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="30%" align="center">
-      <!-- Decor Image (No Link Wrapper) -->
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 50%; box-shadow: 0px 0px 25px rgba(129, 39, 88, 0.6);">
+      <!-- Decor Image (Wrapped to prevent raw click) -->
+      <a href="https://github.com/Rehmanalidevpro">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 50%; box-shadow: 0px 0px 25px rgba(129, 39, 88, 0.6);">
+      </a>
     </td>
     <td width="70%">
       <h2 style="color: #d500f9;">👨‍💻 Hi, I'm a Full Stack Architect</h2>
@@ -38,12 +42,12 @@ Mobile App Expert, Dart, Node.js, AWS, Enterprise Solutions, UI/UX Designer.
 
 <br>
 
-<!-- SEPARATOR -->
+<!-- NEW: FULL WIDTH ANIMATED SEPARATOR (Adds "Mid" Beauty) -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,40&height=100&section=footer&text=Engineering%20Excellence&fontSize=0&animation=fadeIn" width="100%" />
 </div>
 
-<!-- 3. ENGINEERING PHILOSOPHY (Clean & Minimal) -->
+<!-- 3. ENGINEERING PHILOSOPHY -->
 <h2 align="center">🧠 Engineering Philosophy</h2>
 <table align="center" width="100%" border="0">
   <tr>
@@ -67,7 +71,7 @@ Mobile App Expert, Dart, Node.js, AWS, Enterprise Solutions, UI/UX Designer.
 
 <br>
 
-<!-- 4. TECHNOLOGICAL ARSENAL (Clean Grid) -->
+<!-- 4. TECHNOLOGICAL ARSENAL -->
 <h2 align="center">⚡ Technological Arsenal</h2>
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
@@ -92,6 +96,11 @@ Mobile App Expert, Dart, Node.js, AWS, Enterprise Solutions, UI/UX Designer.
 
 <br>
 
+<!-- NEW: WORKFLOW HEADER BANNER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
 <!-- 5. THE WORKFLOW -->
 <h2 align="center">🔄 The Development Workflow</h2>
 <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px dashed #30363d;">
@@ -108,7 +117,7 @@ Mobile App Expert, Dart, Node.js, AWS, Enterprise Solutions, UI/UX Designer.
 
 <br>
 
-<!-- 6. NEW PROFICIENCY UI (Clean Cards - No Ugly Bars) -->
+<!-- 6. SYSTEM MASTERY (Star Rating Cards) -->
 <h2 align="center">📊 System Mastery</h2>
 <table align="center" border="0" width="100%">
   <tr>
@@ -127,35 +136,15 @@ Mobile App Expert, Dart, Node.js, AWS, Enterprise Solutions, UI/UX Designer.
       </div>
     </td>
   </tr>
-  <tr>
-    <td width="50%" style="padding: 10px;">
-      <div align="center" style="background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d;">
-        <h3 style="margin: 0; color: #00E5FF;">☁️ Cloud Infra</h3>
-        <p style="font-size: 25px; margin: 5px;">⭐⭐⭐⭐🌑</p>
-        <code style="color: #8b949e;">AWS • Firebase • Docker</code>
-      </div>
-    </td>
-    <td width="50%" style="padding: 10px;">
-      <div align="center" style="background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d;">
-        <h3 style="margin: 0; color: #d500f9;">🎨 UI/UX Design</h3>
-        <p style="font-size: 25px; margin: 5px;">⭐⭐⭐⭐⭐</p>
-        <code style="color: #8b949e;">Figma • Prototyping • Modern UI</code>
-      </div>
-    </td>
-  </tr>
 </table>
 
 <br>
 
-<!-- 7. NEW GLOBAL ACTIVITY UI (Glass Panel - No Terminal) -->
+<!-- 7. FIXED: GLOBAL ACTIVITY LOG (ANIMATED SNAKE) -->
+<!-- Ab ye Image nahi hai, ye Live Animation hai jo hamesha chalegi -->
 <h2 align="center">🧩 Global Activity Log</h2>
-<div align="center" style="background-color: #0d1117; border-radius: 15px; padding: 20px; box-shadow: 0px 0px 40px rgba(0, 229, 255, 0.1);">
-  <!-- Static Graph Image -->
-  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18b7d-3656-43d8-8c70-f8b859e28942.png" width="100%" style="border-radius: 10px;">
-  <br><br>
-  <code style="color: #00E5FF;">Current Status:</code> <b style="color: #fff;">Pushing Production Code</b>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <code style="color: #d500f9;">Commit Velocity:</code> <b style="color: #fff;">High</b>
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=Rehmanalidevpro&color_snake=00E5FF&color_dots=161b22&color_dot=30363d&color_empty=0d1117&color_chain=00E5FF" width="100%" alt="snake"/>
 </div>
 
 <br>
@@ -170,9 +159,11 @@ Mobile App Expert, Dart, Node.js, AWS, Enterprise Solutions, UI/UX Designer.
 
 <br>
 
-<!-- 9. FOOTER -->
+<!-- 9. FOOTER (Click Fix applied here too) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:812758,100:0e1836&height=120&section=footer&text=Let's%20Collaborate&fontSize=40&animation=fadeIn" width="100%" />
+  <a href="https://github.com/Rehmanalidevpro">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:812758,100:0e1836&height=120&section=footer&text=Let's%20Collaborate&fontSize=40&animation=fadeIn" width="100%" />
+  </a>
   
   <br>
   
