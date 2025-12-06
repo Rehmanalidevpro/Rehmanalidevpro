@@ -1,40 +1,34 @@
-<!-- ================================================================================== -->
-<!-- 🕵️ HIDDEN SEO BLOCK (User ko nahi dikhega, Google ko dikhega)                       -->
-<!-- ================================================================================== -->
-<div align="center" style="display: none; visibility: hidden; opacity: 0; height: 0;">
-  <h1>Rehman Ali - Senior Flutter Developer & Full Stack Architect Pakistan</h1>
-  <p>Expert in Mobile App Development, Flutter, Dart, Firebase, Node.js, AWS, Enterprise Apps.</p>
-  <p>Top Rated Freelancer in Pakistan, Enterprise Solution Architect, UI/UX Designer.</p>
-  <p>Genrwin Ecosystem Creator, High Performance Coding, Clean Architecture.</p>
-</div>
+<!-- 
+=======================================================================
+SEO METADATA (INVISIBLE TO HUMANS, VISIBLE TO SEARCH ENGINES)
+Keywords: Rehman Ali, Senior Flutter Developer Pakistan, Full Stack Architect,
+Mobile App Expert, Dart, Node.js, AWS, Enterprise Solutions, UI/UX Designer.
+=======================================================================
+-->
 
-<!-- ================================================================================== -->
-<!-- 1. HERO HEADER (With Location: Pakistan)                                           -->
-<!-- ================================================================================== -->
+<!-- 1. HERO HEADER (Location Included - No Links) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:812758,100:0e1836&height=320&section=header&text=Rehman%20Ali&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Architecting%20Scalable%20Solutions%20from%20Pakistan&descSize=22&descAlign=50&descAlignY=62" width="100%" />
 </div>
 
-<!-- ================================================================================== -->
-<!-- 2. INTRO SECTION (Grid Layout)                                                     -->
-<!-- ================================================================================== -->
+<!-- 2. INTRO SECTION (Clean Grid - Non-Clickable Decor) -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="30%" align="center">
-      <!-- High Quality Holographic GIF -->
+      <!-- Decor Image (No Link Wrapper) -->
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 50%; box-shadow: 0px 0px 25px rgba(129, 39, 88, 0.6);">
     </td>
     <td width="70%">
       <h2 style="color: #d500f9;">👨‍💻 Hi, I'm a Full Stack Architect</h2>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&width=550&lines=Flutter+Eco-System+Expert;Enterprise+Backend+Engineer;UI%2FUX+Design+Specialist;Scalable+System+Architect" alt="Typing Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&width=550&lines=Flutter+Ecosystem+Expert;Enterprise+Backend+Engineer;UI%2FUX+Design+Specialist;Scalable+System+Architect" alt="Typing Animation" />
       </a>
       <br><br>
       <p>
         I engineer <b>Digital Empires</b>. Specialized in high-performance architectures, I transform complex business logic into seamless, pixel-perfect applications. My code runs on the <b>Philosophy of Perfection</b>.
       </p>
       <p>
-        🚀 <b>Focus:</b> Building the Advanced <i>Genrwin Ecosystem</i>.<br>
+        🚀 <b>Focus:</b> Building Advanced Enterprise Ecosystems.<br>
         🌍 <b>Location:</b> <b>Pakistan</b> (Serving Global Clients).<br>
         ⚡ <b>Status:</b> <b>Available for High-Ticket Projects.</b>
       </p>
@@ -49,35 +43,31 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- ================================================================================== -->
-<!-- 3. ENGINEERING PHILOSOPHY (RESTORED & UPGRADED)                                    -->
-<!-- ================================================================================== -->
+<!-- 3. ENGINEERING PHILOSOPHY (Clean & Minimal) -->
 <h2 align="center">🧠 Engineering Philosophy</h2>
 <table align="center" width="100%" border="0">
   <tr>
     <td width="33%" align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50" /><br>
       <h3 style="color: #00E5FF;">🚀 Scalability</h3>
-      <p>Architecting systems capable of handling millions of requests with 99.9% uptime.</p>
+      <p>Handling millions of requests with 99.9% uptime.</p>
     </td>
     <td width="33%" align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/1152/1152912.png" width="50" /><br>
       <h3 style="color: #00E5FF;">✨ Pixel Perfect</h3>
-      <p>Converting designs into code with 100% precision and smooth 60fps animations.</p>
+      <p>100% precision with smooth 60fps animations.</p>
     </td>
     <td width="33%" align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="50" /><br>
       <h3 style="color: #00E5FF;">🔒 Secure Core</h3>
-      <p>Building industry-standard secure pipelines with encrypted data flow.</p>
+      <p>Industry-standard pipelines with encrypted data.</p>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- ================================================================================== -->
-<!-- 4. TECHNOLOGICAL ARSENAL (CLEAN GRID)                                              -->
-<!-- ================================================================================== -->
+<!-- 4. TECHNOLOGICAL ARSENAL (Clean Grid) -->
 <h2 align="center">⚡ Technological Arsenal</h2>
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
@@ -102,9 +92,7 @@
 
 <br>
 
-<!-- ================================================================================== -->
-<!-- 5. THE WORKFLOW (RESTORED & STYLED)                                                -->
-<!-- ================================================================================== -->
+<!-- 5. THE WORKFLOW -->
 <h2 align="center">🔄 The Development Workflow</h2>
 <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px dashed #30363d;">
   <code style="color: #d500f9; font-size: 16px;">Idea Analysis</code> 
@@ -120,91 +108,59 @@
 
 <br>
 
-<!-- ================================================================================== -->
-<!-- 6. FEATURED DOMAINS (NEW SECTION TO ADD WEIGHT)                                    -->
-<!-- ================================================================================== -->
-<h2 align="center">🔮 Specialized Domains</h2>
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="50"><br>
-      <b>E-Commerce</b><br>
-      <small>Multi-Vendor Platforms</small>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/2163/2163350.png" width="50"><br>
-      <b>FinTech</b><br>
-      <small>Secure Banking Apps</small>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="50"><br>
-      <b>Social</b><br>
-      <small>Real-time Chat/Video</small>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ================================================================================== -->
-<!-- 7. SYSTEM PROFICIENCY (NEON BARS)                                                  -->
-<!-- ================================================================================== -->
-<h2 align="center">📊 System Proficiency</h2>
+<!-- 6. NEW PROFICIENCY UI (Clean Cards - No Ugly Bars) -->
+<h2 align="center">📊 System Mastery</h2>
 <table align="center" border="0" width="100%">
   <tr>
-    <td width="50%" style="padding-right: 20px;">
-      <b>📱 Flutter Ecosystem (Mastery)</b><br>
-      <img src="https://geps.dev/progress/99?dangerColor=800080&warningColor=800080&successColor=00E5FF" width="100%" alt="99%">
-      <br><br>
-      <b>💾 Advanced Backend</b><br>
-      <img src="https://geps.dev/progress/92?dangerColor=800080&warningColor=800080&successColor=00E5FF" width="100%" alt="92%">
+    <td width="50%" style="padding: 10px;">
+      <div align="center" style="background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d;">
+        <h3 style="margin: 0; color: #d500f9;">📱 Flutter Ecosystem</h3>
+        <p style="font-size: 25px; margin: 5px;">⭐⭐⭐⭐⭐</p>
+        <code style="color: #8b949e;">Architecture • State Mgmt • Animations</code>
+      </div>
     </td>
-    <td width="50%" style="padding-left: 20px;">
-       <b>☁️ Cloud Architecture</b><br>
-      <img src="https://geps.dev/progress/90?dangerColor=800080&warningColor=800080&successColor=00E5FF" width="100%" alt="90%">
-      <br><br>
-      <b>🎨 UI/UX System Design</b><br>
-      <img src="https://geps.dev/progress/96?dangerColor=800080&warningColor=800080&successColor=00E5FF" width="100%" alt="96%">
+    <td width="50%" style="padding: 10px;">
+      <div align="center" style="background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d;">
+        <h3 style="margin: 0; color: #00E5FF;">💾 Backend Core</h3>
+        <p style="font-size: 25px; margin: 5px;">⭐⭐⭐⭐⭐</p>
+        <code style="color: #8b949e;">Node.js • Python • Scalable APIs</code>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="padding: 10px;">
+      <div align="center" style="background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d;">
+        <h3 style="margin: 0; color: #00E5FF;">☁️ Cloud Infra</h3>
+        <p style="font-size: 25px; margin: 5px;">⭐⭐⭐⭐🌑</p>
+        <code style="color: #8b949e;">AWS • Firebase • Docker</code>
+      </div>
+    </td>
+    <td width="50%" style="padding: 10px;">
+      <div align="center" style="background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d;">
+        <h3 style="margin: 0; color: #d500f9;">🎨 UI/UX Design</h3>
+        <p style="font-size: 25px; margin: 5px;">⭐⭐⭐⭐⭐</p>
+        <code style="color: #8b949e;">Figma • Prototyping • Modern UI</code>
+      </div>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- ================================================================================== -->
-<!-- 8. GLOBAL ACTIVITY LOG (TERMINAL STYLE)                                            -->
-<!-- ================================================================================== -->
+<!-- 7. NEW GLOBAL ACTIVITY UI (Glass Panel - No Terminal) -->
 <h2 align="center">🧩 Global Activity Log</h2>
-<div align="center">
-  <table width="90%" style="background-color: #0d1117; border-radius: 10px; border: 1px solid #30363d;">
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #30363d;">
-        <span style="color: #ff5f56; font-size: 20px;">●</span>
-        <span style="color: #ffbd2e; font-size: 20px;">●</span>
-        <span style="color: #27c93f; font-size: 20px;">●</span>
-        <span style="color: #8b949e; font-family: monospace; font-size: 12px; margin-left: 10px;">root@RehmanAli:~</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <!-- FAKE GREEN GRAPH (Static Image) -->
-        <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18b7d-3656-43d8-8c70-f8b859e28942.png" width="100%" style="opacity: 0.9; border-radius: 6px;">
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; color: #00E5FF; font-family: monospace; font-size: 12px;">
-        > Deploying High-Scale Architecture... [DONE]<br>
-        > Status: <b>Top Rated Freelancer Active</b> <span style="animation: blink 1s infinite;">█</span>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="background-color: #0d1117; border-radius: 15px; padding: 20px; box-shadow: 0px 0px 40px rgba(0, 229, 255, 0.1);">
+  <!-- Static Graph Image -->
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18b7d-3656-43d8-8c70-f8b859e28942.png" width="100%" style="border-radius: 10px;">
+  <br><br>
+  <code style="color: #00E5FF;">Current Status:</code> <b style="color: #fff;">Pushing Production Code</b>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <code style="color: #d500f9;">Commit Velocity:</code> <b style="color: #fff;">High</b>
 </div>
 
 <br>
 
-<!-- ================================================================================== -->
-<!-- 9. TROPHIES & ACHIEVEMENTS                                                         -->
-<!-- ================================================================================== -->
+<!-- 8. ACHIEVEMENTS -->
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -214,9 +170,7 @@
 
 <br>
 
-<!-- ================================================================================== -->
-<!-- 10. FOOTER WITH PREMIUM BUTTONS                                                    -->
-<!-- ================================================================================== -->
+<!-- 9. FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:812758,100:0e1836&height=120&section=footer&text=Let's%20Collaborate&fontSize=40&animation=fadeIn" width="100%" />
   
