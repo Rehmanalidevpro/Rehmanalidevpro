@@ -1,7 +1,6 @@
 <!-- 
 =======================================================================
-SEO HIDDEN METADATA
-Rehman Ali - Senior Flutter Developer Pakistan - Enterprise Architect
+REHMAN ALI - SENIOR FLUTTER DEVELOPER - ENTERPRISE ARCHITECT
 =======================================================================
 -->
 
@@ -12,37 +11,31 @@ Rehman Ali - Senior Flutter Developer Pakistan - Enterprise Architect
   </a>
 </div>
 
-<!-- 2. INTRO SECTION (FIXED: Table Tags Properly Closed) -->
+<!-- 2. INTRO SECTION (FIXED: Cleaned Spacing to prevent Gray Box Error) -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="30%" align="center">
-      <a href="https://github.com/Rehmanalidevpro">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 50%; box-shadow: 0px 0px 25px rgba(129, 39, 88, 0.6);">
-      </a>
-    </td>
-    <td width="70%">
-      <h2 style="color: #d500f9;">👨‍💻 Hi, I'm a Full Stack Architect</h2>
-      
-      <a href="https://github.com/Rehmanalidevpro">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&width=550&lines=Flutter+Ecosystem+Expert;Enterprise+Backend+Engineer;UI%2FUX+Design+Specialist;Scalable+System+Architect" alt="Typing Animation" />
-      </a>
-      
-      <br><br>
-      <p>
-        I engineer <b>Digital Empires</b>. Specialized in high-performance architectures, I transform complex business logic into seamless, pixel-perfect applications. My code runs on the <b>Philosophy of Perfection</b>.
-      </p>
-      <p>
-        🚀 <b>Focus:</b> Building Advanced Enterprise Ecosystems.<br>
-        🌍 <b>Location:</b> <b>Pakistan</b> (Serving Global Clients).<br>
-        ⚡ <b>Status:</b> <b>Available for High-Ticket Projects.</b>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="30%" align="center">
+<a href="https://github.com/Rehmanalidevpro">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 50%; box-shadow: 0px 0px 25px rgba(129, 39, 88, 0.6);">
+</a>
+</td>
+<td width="70%">
+<h2 style="color: #d500f9;">👨‍💻 Hi, I'm a Full Stack Architect</h2>
+<a href="https://github.com/Rehmanalidevpro">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&width=550&lines=Flutter+Ecosystem+Expert;Enterprise+Backend+Engineer;UI%2FUX+Design+Specialist;Scalable+System+Architect" alt="Typing Animation" />
+</a>
+<br><br>
+<p>I engineer <b>Digital Empires</b>. Specialized in high-performance architectures, I transform complex business logic into seamless, pixel-perfect applications. My code runs on the <b>Philosophy of Perfection</b>.</p>
+<p>🚀 <b>Focus:</b> Building Advanced Enterprise Ecosystems.<br>
+🌍 <b>Location:</b> <b>Pakistan</b> (Serving Global Clients).<br>
+⚡ <b>Status:</b> <b>Available for High-Ticket Projects.</b></p>
+</td>
+</tr>
 </table>
 
 <br>
 
-<!-- 3. ENGINEERING EXCELLENCE (FIXED: Better Colors & Size) -->
+<!-- 3. ENGINEERING EXCELLENCE -->
 <div align="center">
   <a href="https://github.com/Rehmanalidevpro">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Engineering%20Excellence&fontSize=30&fontAlign=50&fontAlignY=40&animation=fadeIn" width="100%" />
