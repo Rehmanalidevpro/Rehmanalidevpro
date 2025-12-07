@@ -4,7 +4,12 @@ REHMAN ALI - SENIOR FLUTTER DEVELOPER - ENTERPRISE ARCHITECT
 =======================================================================
 -->
 
-
+<!-- 1. HERO HEADER -->
+<div align="center">
+  <a href="https://github.com/Rehmanalidevpro">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:812758,100:0e1836&height=320&section=header&text=Rehman%20Ali&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Architecting%20Scalable%20Solutions%20from%20Pakistan&descSize=22&descAlign=50&descAlignY=62" width="100%" />
+  </a>
+</div>
 
 <!-- 2. INTRO SECTION (FIXED: Cleaned Spacing to prevent Gray Box Error) -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -30,9 +35,14 @@ REHMAN ALI - SENIOR FLUTTER DEVELOPER - ENTERPRISE ARCHITECT
 
 <br>
 
+<!-- 3. ENGINEERING EXCELLENCE -->
+<div align="center">
+  <a href="https://github.com/Rehmanalidevpro">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Engineering%20Excellence&fontSize=30&fontAlign=50&fontAlignY=40&animation=fadeIn" width="100%" />
+  </a>
+</div>
 
-
-
+<br>
 
 <!-- 4. ENGINEERING PHILOSOPHY -->
 <h2 align="center">🧠 Engineering Philosophy</h2>
