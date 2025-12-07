@@ -35,14 +35,7 @@ REHMAN ALI - SENIOR FLUTTER DEVELOPER - ENTERPRISE ARCHITECT
 
 <br>
 
-<!-- 3. ENGINEERING EXCELLENCE -->
-<div align="center">
-  <a href="https://github.com/Rehmanalidevpro">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Engineering%20Excellence&fontSize=30&fontAlign=50&fontAlignY=40&animation=fadeIn" width="100%" />
-  </a>
-</div>
 
-<br>
 
 <!-- 4. ENGINEERING PHILOSOPHY -->
 <h2 align="center">🧠 Engineering Philosophy</h2>
