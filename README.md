@@ -65,21 +65,7 @@ MOBILE RESPONSIVE + ADVANCED STACK (RUST, SUPABASE, ETC.)
 
 <br>
 
-<!-- 4. GITHUB STATS (MOBILE RESPONSIVE STACKING) -->
-<h2 align="center">⚡ Engineering Metrics</h2>
 
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehmanalidevpro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=b0b0b0" height="170" alt="Top Languages" />
-  
-  <!-- Spacing for mobile (invisible) -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1" height="10" />
-  
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Rehmanalidevpro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d500f9&text_color=b0b0b0&count_private=true" height="170" alt="Stats" />
-</div>
-
-<br>
 
 <!-- 5. CONTRIBUTION SNAKE (Looks Cool) -->
 <h2 align="center">🧬 Contribution DNA</h2>
