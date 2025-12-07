@@ -1,112 +1,173 @@
 <!-- 
 =======================================================================
-REHMAN ALI - SENIOR FLUTTER DEVELOPER
+REHMAN ALI - SENIOR FLUTTER DEVELOPER - ENTERPRISE ARCHITECT
 =======================================================================
 -->
 
-<!-- 1. HERO HEADER (Waving Style Wapis aa gaya) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:812758,100:0e1836&height=300&section=header&text=Rehman%20Ali&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Architecting%20Scalable%20Solutions&descSize=20&descAlign=50&descAlignY=62" width="100%" alt="Header" />
-</div>
 
-<!-- 2. INTRO SECTION -->
-<div align="center">
-  <a href="https://github.com/Rehmanalidevpro">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" style="border-radius: 50%; border: 4px solid #d500f9; box-shadow: 0px 0px 30px rgba(213, 0, 249, 0.5);">
-  </a>
-  
-  <br><br>
 
-  <h2 style="color: #d500f9;">👨‍💻 Hi, I'm a Full Stack Architect</h2>
-
-  <!-- Typing SVG (Width Adjusted for Mobile) -->
-  <a href="https://github.com/Rehmanalidevpro">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=Flutter+Ecosystem+Expert;Enterprise+Backend+Engineer;UI%2FUX+Design+Specialist;Scalable+System+Architect" alt="Typing Animation" style="max-width: 100%;" />
-  </a>
-
-  <br><br>
-
-  <p>I engineer <b>Digital Empires</b>. Specialized in high-performance architectures, I transform complex business logic into seamless, pixel-perfect applications.</p>
-  
-  <!-- Info Badges (Responsive) -->
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Enterprise_App-d500f9?style=for-the-badge&logo=rocket&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Location-Pakistan-00E5FF?style=for-the-badge&logo=google-maps&logoColor=white" height="25"/>
-    <img src="https://img.shields.io/badge/Status-Available-39d353?style=for-the-badge&logo=clockify&logoColor=white" height="25"/>
-  </p>
-</div>
+<!-- 2. INTRO SECTION (FIXED: Cleaned Spacing to prevent Gray Box Error) -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="30%" align="center">
+<a href="https://github.com/Rehmanalidevpro">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 50%; box-shadow: 0px 0px 25px rgba(129, 39, 88, 0.6);">
+</a>
+</td>
+<td width="70%">
+<h2 style="color: #d500f9;">👨‍💻 Hi, I'm a Full Stack Architect</h2>
+<a href="https://github.com/Rehmanalidevpro">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&width=550&lines=Flutter+Ecosystem+Expert;Enterprise+Backend+Engineer;UI%2FUX+Design+Specialist;Scalable+System+Architect" alt="Typing Animation" />
+</a>
+<br><br>
+<p>I engineer <b>Digital Empires</b>. Specialized in high-performance architectures, I transform complex business logic into seamless, pixel-perfect applications. My code runs on the <b>Philosophy of Perfection</b>.</p>
+<p>🚀 <b>Focus:</b> Building Advanced Enterprise Ecosystems.<br>
+🌍 <b>Location:</b> <b>Pakistan</b> (Serving Global Clients).<br>
+⚡ <b>Status:</b> <b>Available for High-Ticket Projects.</b></p>
+</td>
+</tr>
+</table>
 
 <br>
+
+
 
 <!-- 4. ENGINEERING PHILOSOPHY -->
 <h2 align="center">🧠 Engineering Philosophy</h2>
-<div align="center">
-  <!-- Grid layout using simple images allowing wrapping on mobile -->
-  <img src="https://img.shields.io/badge/🚀_Scalability-99.9%25_Uptime-161b22?style=for-the-badge&labelColor=812758" height="40" />
-  <img src="https://img.shields.io/badge/✨_Pixel_Perfect-60fps_Smooth-161b22?style=for-the-badge&labelColor=0e1836" height="40" />
-  <img src="https://img.shields.io/badge/🔒_Secure_Core-Encrypted-161b22?style=for-the-badge&labelColor=812758" height="40" />
-</div>
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/Rehmanalidevpro"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50" /></a><br>
+      <h3 style="color: #00E5FF;">🚀 Scalability</h3>
+      <p>Handling millions of requests with 99.9% uptime.</p>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Rehmanalidevpro"><img src="https://cdn-icons-png.flaticon.com/512/1152/1152912.png" width="50" /></a><br>
+      <h3 style="color: #00E5FF;">✨ Pixel Perfect</h3>
+      <p>100% precision with smooth 60fps animations.</p>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Rehmanalidevpro"><img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" width="50" /></a><br>
+      <h3 style="color: #00E5FF;">🔒 Secure Core</h3>
+      <p>Industry-standard pipelines with encrypted data.</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- 5. TECHNOLOGICAL ARSENAL (Yeh hai wo fix: Table hata di, ab icons khud adjust honge) -->
+<!-- 5. TECHNOLOGICAL ARSENAL -->
 <h2 align="center">⚡ Technological Arsenal</h2>
-<div align="center">
-  
-  <h3 style="color: #d500f9;">📱 Mobile & Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,nextjs,html,css&theme=dark" />
-  
-  <br><br>
-
-  <h3 style="color: #00E5FF;">⚙️ Backend & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,firebase,aws,docker,git&theme=dark" />
-
-</div>
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="25%">
+      <b>📱 Mobile</b><br><br>
+      <a href="https://github.com/Rehmanalidevpro">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java&theme=dark" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <b>🌐 Frontend</b><br><br>
+      <a href="https://github.com/Rehmanalidevpro">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <b>⚙️ Backend</b><br><br>
+      <a href="https://github.com/Rehmanalidevpro">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <b>☁️ Cloud/Tools</b><br><br>
+      <a href="https://github.com/Rehmanalidevpro">
+        <img src="https://skillicons.dev/icons?i=firebase,aws,docker,git&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <!-- 6. THE WORKFLOW -->
 <h2 align="center">🔄 The Development Workflow</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/1-Idea_Analysis-d500f9?style=flat-square" /> ➔
-  <img src="https://img.shields.io/badge/2-Architecture-00E5FF?style=flat-square" /> ➔
-  <img src="https://img.shields.io/badge/3-Agile_Dev-d500f9?style=flat-square" /> ➔
-  <img src="https://img.shields.io/badge/4-QA_&_Testing-00E5FF?style=flat-square" /> ➔
-  <img src="https://img.shields.io/badge/5-Production-39d353?style=flat-square" />
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px dashed #30363d;">
+  <code style="color: #d500f9; font-size: 16px;">Idea Analysis</code> 
+  <span style="font-size: 20px;"> ➔ </span>
+  <code style="color: #00E5FF; font-size: 16px;">System Architecture</code> 
+  <span style="font-size: 20px;"> ➔ </span>
+  <code style="color: #d500f9; font-size: 16px;">Agile Dev</code> 
+  <span style="font-size: 20px;"> ➔ </span>
+  <code style="color: #00E5FF; font-size: 16px;">QA & Testing</code> 
+  <span style="font-size: 20px;"> ➔ </span>
+  <code style="color: #39d353; font-size: 16px;">Production</code>
 </div>
 
 <br>
 
-<!-- 7. GITHUB STATS (Check Username here if image breaks) -->
+<!-- 7. SYSTEM MASTERY -->
 <h2 align="center">📊 System Mastery</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rehmanalidevpro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d500f9&icon_color=00E5FF" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehmanalidevpro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d500f9" height="160" alt="Languages" />
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%" style="padding: 10px;">
+      <div align="center" style="background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d;">
+        <h3 style="margin: 0; color: #d500f9;">📱 Flutter Ecosystem</h3>
+        <p style="font-size: 25px; margin: 5px;">⭐⭐⭐⭐⭐</p>
+        <code style="color: #8b949e;">Architecture • State Mgmt • Animations</code>
+      </div>
+    </td>
+    <td width="50%" style="padding: 10px;">
+      <div align="center" style="background-color: #161b22; border-radius: 10px; padding: 15px; border: 1px solid #30363d;">
+        <h3 style="margin: 0; color: #00E5FF;">💾 Backend Core</h3>
+        <p style="font-size: 25px; margin: 5px;">⭐⭐⭐⭐⭐</p>
+        <code style="color: #8b949e;">Node.js • Python • Scalable APIs</code>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- 8. GLOBAL ACTIVITY LOG -->
+<h2 align="center">🧩 Global Activity Log</h2>
+<div align="center" style="background-color: #0d1117; border-radius: 15px; padding: 10px; border: 1px solid #30363d;">
+  <a href="https://github.com/Rehmanalidevpro">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 10px; opacity: 0.9;">
+  </a>
+  <br><br>
+  <code style="color: #00E5FF;">System Status:</code> <b style="color: #fff;">ONLINE</b>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <code style="color: #d500f9;">Code Velocity:</code> <b style="color: #fff;">MAXIMUM</b>
 </div>
 
 <br>
 
-<!-- 8. ACHIEVEMENTS -->
+<!-- 9. ACHIEVEMENTS -->
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rehmanalidevpro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Rehmanalidevpro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&margin-h=20" width="100%" />
   </a>
 </div>
 
 <br>
 
-<!-- 9. FOOTER -->
+<!-- 10. FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:812758,100:0e1836&height=100&section=footer&text=Let's%20Collaborate&fontSize=30&animation=fadeIn" width="100%" />
+  <a href="https://github.com/Rehmanalidevpro">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:812758,100:0e1836&height=120&section=footer&text=Let's%20Collaborate&fontSize=40&animation=fadeIn" width="100%" />
+  </a>
   
   <br>
   
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Priority_Inbox-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" height="35"/>
   </a>
   <a href="https://linkedin.com/in/your-id">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" height="35"/>
   </a>
-  
+  <a href="https://github.com/Rehmanalidevpro">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" height="35"/>
+  </a>
+
 </div>
